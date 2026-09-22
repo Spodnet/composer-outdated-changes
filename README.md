@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spodnet/composer-outdated-changes.svg?style=flat-square)](https://packagist.org/packages/spodnet/composer-outdated-changes)
 [![Quality Control Pipeline](https://github.com/Spodnet/composer-outdated-changes/actions/workflows/quality.yml/badge.svg)](https://github.com/Spodnet/composer-outdated-changes/actions/workflows/quality.yml)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![PHP Version](https://img.shields.io/badge/PHP-%5E8.3-blue.svg?style=flat-square)](https://php.net)
+[![PHP Version](https://img.shields.io/badge/PHP-%5E8.4-blue.svg?style=flat-square)](https://php.net)
 
 Inspect outdated Composer dependencies with **inline release notes**, **SemVer impact categorization** (`[MAJOR]`, `[MINOR]`, `[PATCH]`), and **compare diff links** before updating your project.
 
@@ -124,7 +124,7 @@ composer-outdated-changes --format=json       # Great for scripts and automation
 ## Quality & Development Standards
 
 Built in adherence to [Spodnet/quality-control](https://github.com/Spodnet/quality-control):
-- **PHP 8.3+** with `declare(strict_types=1);`
+- **PHP 8.4+** with `declare(strict_types=1);`
 - **Pint** code formatting (`composer lint`)
 - **PHPStan** static analysis at Level 8 (`composer analyse`)
 - **Pest PHP** test suite (`composer test`)
