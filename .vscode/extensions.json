@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "open-southeners.laravel-pint",
+        "swordev.phpstan-nord"
+    ]
+}

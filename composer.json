@@ -1,0 +1,74 @@
+{
+    "$schema": "https://getcomposer.org/schema.json",
+    "name": "spodnet/composer-outdated-changes",
+    "description": "Inspect outdated Composer dependencies with inline changelogs, SemVer categorization, and compare links.",
+    "type": "library",
+    "keywords": [
+        "composer",
+        "outdated",
+        "changelog",
+        "semver",
+        "updates",
+        "terminal",
+        "cpx"
+    ],
+    "homepage": "https://github.com/Spodnet/composer-outdated-changes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Spodnet"
+        }
+    ],
+    "bin": [
+        "bin/composer-outdated-changes"
+    ],
+    "require": {
+        "php": "^8.4",
+        "nunomaduro/termwind": "^2.0",
+        "symfony/console": "^7.2 || ^8.0",
+        "symfony/process": "^7.2 || ^8.0"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.24",
+        "mockery/mockery": "^1.6",
+        "pestphp/pest": "^5.0",
+        "phpstan/phpstan": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spodnet\\ComposerOutdatedChanges\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Spodnet\\ComposerOutdatedChanges\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "lint": [
+            "vendor/bin/pint --parallel"
+        ],
+        "lint:check": [
+            "vendor/bin/pint --parallel --test"
+        ],
+        "analyse": [
+            "vendor/bin/phpstan analyse --memory-limit=1G"
+        ],
+        "test": [
+            "vendor/bin/pest"
+        ],
+        "check": [
+            "@lint:check",
+            "@analyse",
+            "@test"
+        ]
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

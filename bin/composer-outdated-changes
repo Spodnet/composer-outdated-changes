@@ -1,0 +1,33 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+$autoloadFiles = [
+    __DIR__ . '/../../../autoload.php',     // Installed as root vendor binary
+    __DIR__ . '/../vendor/autoload.php',    // Standalone / CPX execution
+];
+
+$loaded = false;
+foreach ($autoloadFiles as $file) {
+    if (file_exists($file)) {
+        require $file;
+        $loaded = true;
+        break;
+    }
+}
+
+if (! $loaded) {
+    fwrite(STDERR, "Unable to find Composer autoload.php file.\n");
+    exit(1);
+}
+
+use Spodnet\ComposerOutdatedChanges\Command\OutdatedChangesCommand;
+use Symfony\Component\Console\Application;
+
+$app = new Application('composer-outdated-changes', '1.0.0');
+$command = new OutdatedChangesCommand();
+$app->addCommand($command);
+$app->setDefaultCommand((string) $command->getName(), true);
+
+$app->run();
