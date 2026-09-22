@@ -26,28 +26,10 @@ Powered by [Termwind](https://github.com/nunomaduro/termwind) for stunning termi
 
 ## Terminal Preview
 
-```text
-📦 Composer Outdated Changes                      3 package(s) outdated
-[ 1 Major ] [ 1 Minor ] [ 1 Patch ]
+<p align="center">
+  <img src="art/terminal-preview.svg" alt="Composer Outdated Changes Preview" width="100%">
+</p>
 
-MAJOR  guzzlehttp/psr7  2.13.1 → 3.1.0  [transitive]
-PSR-7 message implementation that also provides common utility methods
-Diff: https://github.com/guzzle/psr7/compare/2.13.1...3.1.0 • Release: https://github.com/guzzle/psr7/releases/tag/3.1.0
-Release Notes:
-  ### Added
-  - Add Utils::redactUriForMessage() and Utils::redactUriStringForMessage()
-  ### Changed
-  - Omit rejected header values and sensitive URI components
-
-MINOR  spodnet/laravel-http-client-replay  v0.1.0 → v0.2.0  [direct]
-Creates a replayable log of http requests through the http client in laravel
-Diff: https://github.com/Spodnet/laravel-http-client-replay/compare/v0.1.0...v0.2.0 • Release: https://github.com/Spodnet/laravel-http-client-replay/releases/tag/v0.2.0
-Release Notes:
-  ### Added
-  - Auto-expiring cassettes (TTL) support on read with Laravel Cache-aligned APIs:
-    - Configure TTL globally, per-driver, or per-URL scope pattern
-    - Request-level TTL overrides via Http::withOptions(['replay_ttl' => 3600])
-```
 
 ---
 

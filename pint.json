@@ -1,5 +1,8 @@
 {
     "preset": "laravel",
+    "exclude": [
+        "scripts"
+    ],
     "rules": {
         "native_function_invocation": {
             "include": ["@compiler_optimized"],

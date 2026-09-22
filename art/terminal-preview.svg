@@ -1,0 +1,191 @@
+<svg id="svg3bb8a9a9" viewBox="0 0 921.0 957.4" width="921.0" height="957.4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family='ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace' font-size="13" text-rendering="geometricPrecision">
+    <title>Terminal Session Recording</title>
+    <style>
+            .c8_svg3bb8a9a9 { fill:#047857; }
+      .c19_svg3bb8a9a9 { fill:#059669; }
+      .c1_svg3bb8a9a9 { fill:#1e293b; }
+      .c15_svg3bb8a9a9 { fill:#22d3ee;font-weight:bold;text-decoration:underline; }
+      .c7_svg3bb8a9a9 { fill:#2e3436;font-weight:bold; }
+      .c11_svg3bb8a9a9 { fill:#34d399;font-weight:bold; }
+      .c10_svg3bb8a9a9 { fill:#475569;font-weight:bold; }
+      .c16_svg3bb8a9a9 { fill:#60a5fa;font-weight:bold;text-decoration:underline; }
+      .c12_svg3bb8a9a9 { fill:#64748b; }
+      .c3_svg3bb8a9a9 { fill:#94a3b8; }
+      .c13_svg3bb8a9a9 { fill:#94a3b8;font-style:italic; }
+      .c17_svg3bb8a9a9 { fill:#94a3b8;font-weight:bold; }
+      .c4_svg3bb8a9a9 { fill:#b91c1c; }
+      .c14_svg3bb8a9a9 { fill:#cbd5e1; }
+      .c2_svg3bb8a9a9 { fill:#d3d7cf;font-weight:bold; }
+      .c6_svg3bb8a9a9 { fill:#d97706; }
+      .c9_svg3bb8a9a9 { fill:#dc2626; }
+      .c5_svg3bb8a9a9 { fill:#e6edf3; }
+      .c18_svg3bb8a9a9 { fill:#f59e0b; }
+
+            .v1_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v1_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v1_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 1.2353% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v2_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v2_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v2_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 1.6677% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v3_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v3_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v3_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 2.1001% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v4_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v4_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v4_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 2.5324% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v5_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v5_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v5_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 2.9648% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v6_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v6_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v6_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 3.3972% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v7_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v7_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v7_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 3.8295% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v8_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v8_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v8_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 4.2619% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v9_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v9_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v9_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 4.6943% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v10_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v10_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v10_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 5.1266% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v11_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v11_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v11_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 5.5590% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v12_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v12_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v12_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 5.9914% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v13_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v13_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v13_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 6.4237% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v14_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v14_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v14_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 6.8561% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v15_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v15_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v15_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 7.2884% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v16_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v16_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v16_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 7.7208% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v17_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v17_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v17_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 8.1532% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v18_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v18_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v18_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 8.5855% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v19_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v19_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v19_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 9.0179% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v20_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v20_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v20_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 25.8802% { visibility: visible; } 25.8802% { visibility: hidden; }
+      }      .v21_svg3bb8a9a9 {
+        animation: 8.095s steps(1, end) infinite svg3bb8a9a9-v21_svg3bb8a9a9-anim;
+        visibility: hidden;
+      }
+      @keyframes svg3bb8a9a9-v21_svg3bb8a9a9-anim {
+        0.0000% { visibility: hidden; } 25.8802% { visibility: visible; }
+      }      #svg3bb8a9a9_cursor { animation: 8.095s steps(1, end) infinite svg3bb8a9a9-cursor-pos, 8.095s steps(1, end) infinite svg3bb8a9a9-cursor-vis; }
+      #svg3bb8a9a9_main-screen { animation: 8.095s steps(1, end) infinite svg3bb8a9a9-main-screen; opacity: 1; pointer-events: auto; }
+      #svg3bb8a9a9_alt-screen { animation: 8.095s steps(1, end) infinite svg3bb8a9a9-alt-screen; opacity: 0; pointer-events: none; }
+      #svg3bb8a9a9_main-scroll { animation: 8.095s steps(1, end) infinite svg3bb8a9a9-main-scroll; }
+      #svg3bb8a9a9_alt-scroll { animation: 8.095s steps(1, end) infinite svg3bb8a9a9-alt-scroll; }
+      @keyframes svg3bb8a9a9-cursor-pos { 0.0000% { transform: translate(0.00px, 0.00px); } 1.2353% { transform: translate(78.00px, 15.60px); } 1.6677% { transform: translate(85.80px, 15.60px); } 2.1001% { transform: translate(93.60px, 15.60px); } 2.5324% { transform: translate(101.40px, 15.60px); } 2.9648% { transform: translate(109.20px, 15.60px); } 3.3972% { transform: translate(117.00px, 15.60px); } 3.8295% { transform: translate(124.80px, 15.60px); } 4.2619% { transform: translate(132.60px, 15.60px); } 4.6943% { transform: translate(140.40px, 15.60px); } 5.1266% { transform: translate(148.20px, 15.60px); } 5.5590% { transform: translate(156.00px, 15.60px); } 5.9914% { transform: translate(163.80px, 15.60px); } 6.4237% { transform: translate(171.60px, 15.60px); } 6.8561% { transform: translate(179.40px, 15.60px); } 7.2884% { transform: translate(187.20px, 15.60px); } 7.7208% { transform: translate(195.00px, 15.60px); } 8.1532% { transform: translate(202.80px, 15.60px); } 8.5855% { transform: translate(210.60px, 15.60px); } 9.0179% { transform: translate(218.40px, 15.60px); } 25.8802% { transform: translate(0.00px, 889.20px); } }
+      @keyframes svg3bb8a9a9-cursor-vis { 0.0000% { visibility: visible; } }
+      @keyframes svg3bb8a9a9-main-screen { 0% { opacity: 1; pointer-events: auto; } }
+      @keyframes svg3bb8a9a9-alt-screen { 0% { opacity: 0; pointer-events: none; } }
+      @keyframes svg3bb8a9a9-main-scroll { 25.8802% { transform: translateY(-15.60px); } 25.8802% { transform: translateY(-31.20px); } 25.8802% { transform: translateY(-46.80px); } }
+      @keyframes svg3bb8a9a9-alt-scroll {  }
+    </style>
+    <rect width="100%" height="100%" fill="#0d1117" />
+        <!-- Window Frame -->
+    <rect width="921" height="957.4" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+    <path d="M 0,38 L 921,38" stroke="#21262d" stroke-width="1" />
+
+    <!-- Window Controls -->
+    <circle cx="20" cy="19" r="6" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5" />
+    <circle cx="39" cy="19" r="6" fill="#ffbd2e" stroke="#dea125" stroke-width="0.5" />
+    <circle cx="58" cy="19" r="6" fill="#27c93f" stroke="#1aab29" stroke-width="0.5" />
+
+    <!-- Window Title -->
+    <text x="460.5" y="23" fill="#8b949e" font-size="12" font-weight="500" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">composer-outdated-changes</text>
+    <g transform="translate(12, 38)">
+    <g id="svg3bb8a9a9_master">
+        <g id="svg3bb8a9a9_main-screen">
+            <g class="terminal-screen" id="svg3bb8a9a9_main-scroll" text-rendering="geometricPrecision">
+                <rect class="c1_svg3bb8a9a9 v1_svg3bb8a9a9" x="0.00" y="15.60" width="78.00" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v2_svg3bb8a9a9" x="78.00" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v3_svg3bb8a9a9" x="85.80" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v4_svg3bb8a9a9" x="93.60" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v5_svg3bb8a9a9" x="101.40" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v6_svg3bb8a9a9" x="109.20" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v7_svg3bb8a9a9" x="117.00" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v8_svg3bb8a9a9" x="124.80" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v9_svg3bb8a9a9" x="132.60" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v10_svg3bb8a9a9" x="140.40" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v11_svg3bb8a9a9" x="148.20" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v12_svg3bb8a9a9" x="156.00" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v13_svg3bb8a9a9" x="163.80" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v14_svg3bb8a9a9" x="171.60" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v15_svg3bb8a9a9" x="179.40" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v16_svg3bb8a9a9" x="187.20" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v17_svg3bb8a9a9" x="195.00" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v18_svg3bb8a9a9" x="202.80" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v19_svg3bb8a9a9" x="210.60" y="15.60" width="7.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v20_svg3bb8a9a9" x="218.40" y="15.60" width="499.20" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v20_svg3bb8a9a9" x="717.60" y="15.60" width="163.80" height="15.60"></rect><rect class="c1_svg3bb8a9a9 v20_svg3bb8a9a9" x="881.40" y="15.60" width="7.80" height="15.60"></rect><rect class="c4_svg3bb8a9a9 v21_svg3bb8a9a9" x="0.00" y="46.80" width="70.20" height="15.60"></rect><rect class="c6_svg3bb8a9a9 v21_svg3bb8a9a9" x="85.80" y="46.80" width="70.20" height="15.60"></rect><rect class="c8_svg3bb8a9a9 v21_svg3bb8a9a9" x="171.60" y="46.80" width="70.20" height="15.60"></rect><rect class="c9_svg3bb8a9a9 v21_svg3bb8a9a9" x="0.00" y="93.60" width="54.60" height="15.60"></rect><rect class="c18_svg3bb8a9a9 v21_svg3bb8a9a9" x="0.00" y="421.20" width="54.60" height="15.60"></rect><rect class="c19_svg3bb8a9a9 v21_svg3bb8a9a9" x="0.00" y="733.20" width="54.60" height="15.60"></rect><text class="c2_svg3bb8a9a9 v1_svg3bb8a9a9 " x="0.00" y="28.60" xml:space="preserve"> 📦 Compose</text><text class="c2_svg3bb8a9a9 v2_svg3bb8a9a9 " x="78.00" y="28.60">r</text><text class="c2_svg3bb8a9a9 v3_svg3bb8a9a9 " x="85.80" y="28.60" xml:space="preserve"> </text><text class="c2_svg3bb8a9a9 v4_svg3bb8a9a9 " x="93.60" y="28.60">O</text><text class="c2_svg3bb8a9a9 v5_svg3bb8a9a9 " x="101.40" y="28.60">u</text><text class="c2_svg3bb8a9a9 v6_svg3bb8a9a9 " x="109.20" y="28.60">t</text><text class="c2_svg3bb8a9a9 v7_svg3bb8a9a9 " x="117.00" y="28.60">d</text><text class="c2_svg3bb8a9a9 v8_svg3bb8a9a9 " x="124.80" y="28.60">a</text><text class="c2_svg3bb8a9a9 v9_svg3bb8a9a9 " x="132.60" y="28.60">t</text><text class="c2_svg3bb8a9a9 v10_svg3bb8a9a9 " x="140.40" y="28.60">e</text><text class="c2_svg3bb8a9a9 v11_svg3bb8a9a9 " x="148.20" y="28.60">d</text><text class="c2_svg3bb8a9a9 v12_svg3bb8a9a9 " x="156.00" y="28.60" xml:space="preserve"> </text><text class="c2_svg3bb8a9a9 v13_svg3bb8a9a9 " x="163.80" y="28.60">C</text><text class="c2_svg3bb8a9a9 v14_svg3bb8a9a9 " x="171.60" y="28.60">h</text><text class="c2_svg3bb8a9a9 v15_svg3bb8a9a9 " x="179.40" y="28.60">a</text><text class="c2_svg3bb8a9a9 v16_svg3bb8a9a9 " x="187.20" y="28.60">n</text><text class="c2_svg3bb8a9a9 v17_svg3bb8a9a9 " x="195.00" y="28.60">g</text><text class="c2_svg3bb8a9a9 v18_svg3bb8a9a9 " x="202.80" y="28.60">e</text><text class="c2_svg3bb8a9a9 v19_svg3bb8a9a9 " x="210.60" y="28.60">s</text><text class="c2_svg3bb8a9a9 v20_svg3bb8a9a9 " x="218.40" y="28.60" xml:space="preserve">                                                                </text><text class="c3_svg3bb8a9a9 v20_svg3bb8a9a9 " x="717.60" y="28.60">3 package(s) outdated</text><text class="c2_svg3bb8a9a9 v20_svg3bb8a9a9 " x="881.40" y="28.60" xml:space="preserve"> </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="59.80" xml:space="preserve"> 1 Major </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="70.20" y="59.80" xml:space="preserve">  </text><text class="c7_svg3bb8a9a9 v21_svg3bb8a9a9 " x="85.80" y="59.80" xml:space="preserve"> 1 Minor </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="156.00" y="59.80" xml:space="preserve">  </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="171.60" y="59.80" xml:space="preserve"> 1 Patch </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="106.60" xml:space="preserve"> MAJOR </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="54.60" y="106.60" xml:space="preserve">  </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="70.20" y="106.60">guzzlehttp/psr7</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="187.20" y="106.60" xml:space="preserve">  </text><text class="c3_svg3bb8a9a9 v21_svg3bb8a9a9 " x="202.80" y="106.60">2.13.1</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="249.60" y="106.60" xml:space="preserve">  </text><text class="c10_svg3bb8a9a9 v21_svg3bb8a9a9 " x="265.20" y="106.60">→</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="273.00" y="106.60" xml:space="preserve">  </text><text class="c11_svg3bb8a9a9 v21_svg3bb8a9a9 " x="288.60" y="106.60">3.1.0</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="327.60" y="106.60" xml:space="preserve">  </text><text class="c12_svg3bb8a9a9 v21_svg3bb8a9a9 " x="343.20" y="106.60">[transitive]</text><text class="c13_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="122.20">PSR-7 message implementation that also provides common utility methods</text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="169.00" xml:space="preserve">Diff: </text><a href="https://github.com/guzzle/psr7/compare/2.13.1...3.1.0" target="_blank"><text class="c15_svg3bb8a9a9 v21_svg3bb8a9a9 " x="46.80" y="169.00">https://github.com/guzzle/psr7/compare/2.13.1...3.1.0</text></a><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="184.60" xml:space="preserve">Release: </text><a href="https://github.com/guzzle/psr7/releases/tag/3.1.0" target="_blank"><text class="c16_svg3bb8a9a9 v21_svg3bb8a9a9 " x="70.20" y="184.60">https://github.com/guzzle/psr7/releases/tag/3.1.0</text></a><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="231.40" xml:space="preserve">  </text><text class="c17_svg3bb8a9a9 v21_svg3bb8a9a9 " x="15.60" y="231.40">Release Notes:</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="247.00" xml:space="preserve">  </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="262.60" xml:space="preserve">  </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="15.60" y="262.60">Added</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="278.20" xml:space="preserve">   </text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="23.40" y="278.20">• Add Utils::redactUriForMessage() and Utils::redactUriStringForMessage()</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="293.80" xml:space="preserve">  </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="309.40" xml:space="preserve">  </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="15.60" y="309.40">Changed</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="325.00" xml:space="preserve">   </text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="23.40" y="325.00">• Omit rejected header values and sensitive URI components</text><text class="c1_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="387.40">───────────────────────────────────────────────────────────────────────────────────────────────────────────────────</text><text class="c7_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="434.20" xml:space="preserve"> MINOR </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="54.60" y="434.20" xml:space="preserve">  </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="70.20" y="434.20">spodnet/laravel-http-client-replay</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="335.40" y="434.20" xml:space="preserve">  </text><text class="c3_svg3bb8a9a9 v21_svg3bb8a9a9 " x="351.00" y="434.20">v0.1.0</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="397.80" y="434.20" xml:space="preserve">  </text><text class="c10_svg3bb8a9a9 v21_svg3bb8a9a9 " x="413.40" y="434.20">→</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="421.20" y="434.20" xml:space="preserve">  </text><text class="c11_svg3bb8a9a9 v21_svg3bb8a9a9 " x="436.80" y="434.20">v0.2.0</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="483.60" y="434.20" xml:space="preserve">  </text><text class="c3_svg3bb8a9a9 v21_svg3bb8a9a9 " x="499.20" y="434.20">[direct]</text><text class="c13_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="449.80">Creates a replayable log of http requests through the http client in laravel</text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="496.60" xml:space="preserve">Diff: </text><a href="https://github.com/Spodnet/laravel-http-client-replay/compare/v0.1.0...v0.2.0" target="_blank"><text class="c15_svg3bb8a9a9 v21_svg3bb8a9a9 " x="46.80" y="496.60">https://github.com/Spodnet/laravel-http-client-replay/compare/v0.1.0...v0.2.0</text></a><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="512.20" xml:space="preserve">Release: </text><a href="https://github.com/Spodnet/laravel-http-client-replay/releases/tag/v0.2.0" target="_blank"><text class="c16_svg3bb8a9a9 v21_svg3bb8a9a9 " x="70.20" y="512.20">https://github.com/Spodnet/laravel-http-client-replay/releases/tag/v0.2.0</text></a><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="559.00" xml:space="preserve">  </text><text class="c17_svg3bb8a9a9 v21_svg3bb8a9a9 " x="15.60" y="559.00">Release Notes:</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="574.60" xml:space="preserve">  </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="590.20" xml:space="preserve">  </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="15.60" y="590.20">Added</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="605.80" xml:space="preserve">   </text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="23.40" y="605.80">• Auto-expiring cassettes (TTL) support on read with Laravel Cache-aligned APIs:</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="621.40" xml:space="preserve">   </text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="23.40" y="621.40">• Configure TTL globally, per-driver, or per-URL scope pattern</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="637.00" xml:space="preserve">   </text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="23.40" y="637.00">• Request-level TTL overrides via Http::withOptions(['replay_ttl' =&gt; 3600])</text><text class="c1_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="699.40">───────────────────────────────────────────────────────────────────────────────────────────────────────────────────</text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="746.20" xml:space="preserve"> PATCH </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="54.60" y="746.20" xml:space="preserve">  </text><text class="c2_svg3bb8a9a9 v21_svg3bb8a9a9 " x="70.20" y="746.20">pestphp/pest</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="163.80" y="746.20" xml:space="preserve">  </text><text class="c3_svg3bb8a9a9 v21_svg3bb8a9a9 " x="179.40" y="746.20">v5.2.0</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="226.20" y="746.20" xml:space="preserve">  </text><text class="c10_svg3bb8a9a9 v21_svg3bb8a9a9 " x="241.80" y="746.20">→</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="249.60" y="746.20" xml:space="preserve">  </text><text class="c11_svg3bb8a9a9 v21_svg3bb8a9a9 " x="265.20" y="746.20">v5.2.1</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="312.00" y="746.20" xml:space="preserve">  </text><text class="c3_svg3bb8a9a9 v21_svg3bb8a9a9 " x="327.60" y="746.20">[direct]</text><text class="c13_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="761.80">The elegant PHP Testing Framework.</text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="808.60" xml:space="preserve">Diff: </text><a href="https://github.com/pestphp/pest/compare/v5.2.0...v5.2.1" target="_blank"><text class="c15_svg3bb8a9a9 v21_svg3bb8a9a9 " x="46.80" y="808.60">https://github.com/pestphp/pest/compare/v5.2.0...v5.2.1</text></a><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="824.20" xml:space="preserve">Release: </text><a href="https://github.com/pestphp/pest/releases/tag/v5.2.1" target="_blank"><text class="c16_svg3bb8a9a9 v21_svg3bb8a9a9 " x="70.20" y="824.20">https://github.com/pestphp/pest/releases/tag/v5.2.1</text></a><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="871.00" xml:space="preserve">  </text><text class="c17_svg3bb8a9a9 v21_svg3bb8a9a9 " x="15.60" y="871.00">Release Notes:</text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="886.60" xml:space="preserve">   </text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="23.40" y="886.60" xml:space="preserve">• fix: command gh not found on Windows - #1895 by @sertxudev in </text><a href="https://github.com/pestphp/pest/pull/1922" target="_blank"><text class="c15_svg3bb8a9a9 v21_svg3bb8a9a9 " x="522.60" y="886.60">https://github.com/pestphp/pest/pull/1922</text></a><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="902.20" xml:space="preserve">  </text><text class="c14_svg3bb8a9a9 v21_svg3bb8a9a9 " x="15.60" y="902.20" xml:space="preserve">**Full Changelog**: </text><a href="https://github.com/pestphp/pest/compare/v5.2.0...v5.2.1" target="_blank"><text class="c15_svg3bb8a9a9 v21_svg3bb8a9a9 " x="171.60" y="902.20">https://github.com/pestphp/pest/compare/v5.2.0...v5.2.1</text></a><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="917.80" xml:space="preserve">                                                                                                                   </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="933.40" xml:space="preserve">                                                                                                                   </text><text class="c5_svg3bb8a9a9 v21_svg3bb8a9a9 " x="0.00" y="949.00" xml:space="preserve">                                                                                                                   </text>
+            </g>
+        </g>
+        <g id="svg3bb8a9a9_alt-screen">
+            <g class="terminal-screen" id="svg3bb8a9a9_alt-scroll" text-rendering="geometricPrecision">
+                
+            </g>
+        </g>
+        <rect id="svg3bb8a9a9_cursor" width="7.8" height="15.6" fill="#e6edf3" opacity="0.7">
+        </rect>
+    </g>
+    
+    </g>
+</svg>
