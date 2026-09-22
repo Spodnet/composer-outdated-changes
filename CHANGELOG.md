@@ -1,6 +1,14 @@
 # Release Notes
 
-## [Unreleased](https://github.com/Spodnet/composer-outdated-changes/compare/v0.2.0...main)
+## [Unreleased](https://github.com/Spodnet/composer-outdated-changes/compare/v0.2.1...main)
+
+## [v0.2.1](https://github.com/Spodnet/composer-outdated-changes/compare/v0.2.0...v0.2.1) - 2026-09-22
+
+### Fixed
+
+- Added `phpunit.xml` configuration for Pest and PHPUnit test suite execution in CI.
+- Updated GitHub Actions Quality Control workflow matrix to run on PHP 8.4+.
+- Added `.phpunit.cache/` to `.gitignore`.
 
 ## [v0.2.0](https://github.com/Spodnet/composer-outdated-changes/compare/v0.1.0...v0.2.0) - 2026-09-22
 
